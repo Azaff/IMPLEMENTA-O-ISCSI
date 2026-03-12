@@ -67,3 +67,8 @@ Testar RAID 10 no storage
 Avaliar upgrade para rede 10Gb
 
 Criar um ambiente Hyper-V Failover Cluster
+![ISCSI](https://github.com/user-attachments/assets/635501bd-2696-471e-b46a-9b80d5c88e88)
+![CONEXÃO](https://github.com/user-attachments/assets/090c7a69-6817-45a7-9e7b-17344b856b5f)
+![DISK MANAGER](https://github.com/user-attachments/assets/2126224d-0e7e-40bf-a686-ad2419d7934c)
+![WhatsApp Image 2026-03-12 at 14 17 55](https://github.com/user-attachments/assets/d29a8d5a-632d-4530-8bc5-d223c8a7316c)
+![No Ar](https://github.com/user-attachments/assets/b75d87c7-d9ba-46fe-a1e9-2e66db76e968)
